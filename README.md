@@ -182,7 +182,7 @@ This project uses a publicly available breast cancer clinical dataset containing
 
 **Musab Mahmoud Abukalam**
 
-Biomedical Engineering Student
+Biomedical Engineer
 
 Interested in Machine Learning, Bioinformatics, and AI for Healthcare.
 
